@@ -1,0 +1,4 @@
+Processing results for data2.txt
+Characters: 90
+Words: 18
+Lines: 6

@@ -1,0 +1,4 @@
+Processing results for data3.txt
+Characters: 450
+Words: 66
+Lines: 2
